@@ -22,8 +22,8 @@ The system processes multiple resumes, extracts key information, computes simila
 
 ## Demo video and screenshots
 ![Demo Video](https://github.com/Shriya-Guptaa/SmartHire/blob/c0c10ae700e54d856e61e9871cdb2fe680a58e32/demo/resume-ranking.mp4)
-![img1]()
-![img2]()
+![img1](https://github.com/Shriya-Guptaa/SmartHire/blob/a440a18b6e48799fa4a3dd6001ca2f7c2aefa45f/demo/Resume-ranking_img1.png)
+![img2](https://github.com/Shriya-Guptaa/SmartHire/blob/a440a18b6e48799fa4a3dd6001ca2f7c2aefa45f/demo/Resume-ranking_img2.png)
 
 
 ## Setup Instructions
