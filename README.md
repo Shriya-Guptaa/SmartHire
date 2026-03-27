@@ -20,11 +20,11 @@ The system processes multiple resumes, extracts key information, computes simila
 
 ---
 
-## Screenshots of the working project
+## Demo video and screenshots
+![Demo Video](https://github.com/Shriya-Guptaa/SmartHire/blob/c0c10ae700e54d856e61e9871cdb2fe680a58e32/demo/resume-ranking.mp4)
+![img1]()
+![img2]()
 
-![image alt](https://github.com/vertexbuddy-ai-hiring/ai-resume-ranking-and-candidate-matching-system-Shriya-Guptaa/blob/7db90d7d4fd98c948686d87e2476235b5e6ef605/demo/Screenshot%202026-03-18%20115949.png)
-
-![image alt](https://github.com/vertexbuddy-ai-hiring/ai-resume-ranking-and-candidate-matching-system-Shriya-Guptaa/blob/7db90d7d4fd98c948686d87e2476235b5e6ef605/demo/Screenshot%202026-03-18%20120039.png)
 
 ## Setup Instructions
 
